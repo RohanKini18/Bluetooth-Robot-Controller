@@ -33,10 +33,10 @@ A simple and interactive mobile application developed using **Flutter** that all
 ## 🛠️ Arduino Setup
 
 ### Components Required:
-- Arduino Uno/Nano
+- Arduino Uno
 - HC-05 Bluetooth Module
 - L298N Motor Driver
-- 2 DC Motors (for robot movement)
+- 4 DC Motors (for robot movement)
 - Power Supply (Battery pack)
 
 ### HC-05 Wiring:
