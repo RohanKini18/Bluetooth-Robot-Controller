@@ -13,7 +13,7 @@ A simple and interactive mobile application developed using **Flutter** that all
   - Backward (B)
   - Left (L)
   - Right (R)
-  - Stop (S) - Auto-stops after short movement unless held.
+  - Auto-stops after short movement unless held.
 - **Disconnect** option returns user to device selection screen.
 - **User Feedback** with Snackbars after sending commands.
 - Designed with a clean, responsive, and modern UI.
